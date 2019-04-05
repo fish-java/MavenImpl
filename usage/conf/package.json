@@ -1,0 +1,7 @@
+{
+  "name": "@bitfish/learn-npm",
+  "version": "1.0",
+  "dependencies": {
+    "@junit/junit":"3.8.1"
+  }
+}
