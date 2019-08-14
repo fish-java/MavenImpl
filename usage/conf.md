@@ -1,4 +1,4 @@
-# pom.xml
+# 配置文件pom.xml
 Project Object Model，是Maven核心配置文件
 
 

@@ -1,6 +1,6 @@
-创建一个web工程和一个普通工程差不多
+## 使用Maven创建Web工程
 
-
+创建一个web工程和创建一个普通工程差不多
 
 ```bash
 $ mvn archetype:generate

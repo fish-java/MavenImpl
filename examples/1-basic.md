@@ -33,7 +33,7 @@ package: jar
 ![333](assets/333-4453296.gif)
 
 
-
+这是生成的项目的目录结构
 ```
 .
 └── HelloMaven
@@ -114,7 +114,6 @@ $ mvn compile
 [ERROR] For more information about the errors and possible solutions, please read the following articles:
 [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
 ```
-
 
 
 然后其实会爆出一个错误，我们需要额外添加一个东西
